@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542662839 source:c:\users\bbx22\documents\canada\uqac\resolution de problemes\devoir 2 partie 2\projet_2_partie_2\main.cpp
+	"header.h"
+
+1542669547 c:\users\bbx22\documents\canada\uqac\resolution de problemes\devoir 2 partie 2\projet_2_partie_2\header.h
+	"stdio.h"
+	"math.h"
+	"Equations.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1542227657 c:\users\bbx22\documents\canada\uqac\resolution de problemes\devoir 2 partie 2\projet_2_partie_2\equations.h
+
